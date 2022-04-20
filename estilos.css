@@ -1,0 +1,26 @@
+#banner{
+
+    background-image: url("../assets/img/banner2.jpg");
+    background-size: cover;
+    background-position: top center;
+    padding: 15% 50% 25% 2%;
+
+}
+
+#footer{
+    background-color:#383838;
+}
+
+.menu{
+    background-color: transparent;
+    transition: 1s;
+}
+
+.menu2{
+    background-color: black;
+    transition: 2s;
+}
+
+#textbaner,#txtfoot{
+    color: white;
+}
